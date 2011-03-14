@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Query Contacts</string>
+    <string name="type_phone">Phone Number</string>
+    <string name="type_email">E-Mail</string>
+</resources>
